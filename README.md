@@ -2,7 +2,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-blue"/></a>
- <a href="https://conceptprimefatec.atlassian.net/jira/software/projects/CP3S/boards/3/backlog?assignee=unassigned%2C712020%3A8a58d1bf-2cab-4aad-84b1-37e0f078cfba"><img src="https://img.shields.io/badge/LINK:-JIRA SOFTWARE-blue"/></a>
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
@@ -154,7 +153,7 @@ _Sprint 4_
 
 |    Função     | Nome                                  |  LinkedIn & GitHub |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Product Owner  |    Felipe Rodrigues   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elielmaciel2022?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElielMaciel/Template)     |           
+|  Product Owner  |    Guilherme Ribeiro  |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elielmaciel2022?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElielMaciel/Template)     |           
 |  Scrum Master  | Cauã Francesco|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-augusto-85b115199/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rogeriopereira01)     |
 |Developer Team  | Rogério Augusto|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cauafrancesco) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
 |  Developer Team  | Elisama Israele             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elisama-silva-a11a3b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElisamaIsraele)      |
