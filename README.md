@@ -75,10 +75,10 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 04/04/2025 | Em andamento   | [Relatório](https://github.com/user-attachments/files/17441616/DOCUMENTO.SPRINT.1.1.docx24.docx)|
-| 02 | 25/04/2025 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17441645/RELATORIO.SPRINT.2.docx)|
-| 03 | 16/05/2025 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17962405/RELATORIO.SPRINT.3.docx)
-| 04 | 27/06/2025 | Em andamento | [Relatório](https://github.com/user-attachments/files/17962423/RELATORIO.SPRINT.4-1.docx)|
+| 01 | ? | Em andamento   | [Relatório](https://github.com/user-attachments/files/17441616/DOCUMENTO.SPRINT.1.1.docx24.docx)|
+| 02 | ? | Em andamento    | [Relatório](https://github.com/user-attachments/files/17441645/RELATORIO.SPRINT.2.docx)|
+| 03 | ? | Em andamento    | [Relatório](https://github.com/user-attachments/files/17962405/RELATORIO.SPRINT.3.docx)
+| 04 | ? | Em andamento | [Relatório](https://github.com/user-attachments/files/17962423/RELATORIO.SPRINT.4-1.docx)|
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -90,7 +90,6 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 # Backlog do Produto 
 
 _Sprint 1_
-
 
 
 
@@ -154,10 +153,10 @@ _Sprint 4_
 |    Função     | Nome                                  |  LinkedIn & GitHub |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  Product Owner  |    Guilherme Ribeiro  |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elielmaciel2022?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElielMaciel/Template)     |           
-|  Scrum Master  | Cauã Francesco|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-augusto-85b115199/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rogeriopereira01)     |
-|Developer Team  | Rogério Augusto|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cauafrancesco) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
-|  Developer Team  | Elisama Israele             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elisama-silva-a11a3b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElisamaIsraele)      |
-|  Developer Team | Eliel Maciel|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rodrigues-silva-234249169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Feliperodrigues17)     |
-| Developer Team | Tassia Nataly |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-ribeiro-914245222) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermecarvalhoribeiro)     |
-| Developer Team | Josimar Santos|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josimar-santos-2b4329288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
-|  Developer Team | Leandro Ramos    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ramos-193040277/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)          |
+|  Scrum Master  | Alana Rodrigues |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-augusto-85b115199/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rogeriopereira01)     |
+|Developer Team  | Gustavo Tavares |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cauafrancesco) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
+|  Developer Team  | Lais             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elisama-silva-a11a3b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElisamaIsraele)      |
+|  Developer Team | Julia Lima |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rodrigues-silva-234249169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Feliperodrigues17)     |
+| Developer Team | Felipe |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-ribeiro-914245222) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermecarvalhoribeiro)     |
+| Developer Team | ? |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josimar-santos-2b4329288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
+|  Developer Team | ?   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ramos-193040277/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)          |
