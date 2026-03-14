@@ -151,7 +151,7 @@ _Sprint 4_
 
 # Equipe Funções 
 
-# <img width="40" height="80" alt="image" src="https://github.com/user-attachments/assets/0f9f6bcf-388e-4bf7-b9d6-6e7ddb8fb954" />Equipe
+
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Guilherme Ribeiro     |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-ribeiro-914245222 ) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermecarvalhoribeiro )              |
