@@ -1,6 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/7a0c52b1-7b69-4c99-8641-a692ee8b8c63)
 
-# EVOLUTI LOGISTICS COMPANY
 ------------------------------------------------------------------------------------------------------------------------------------------
 
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-blue"/></a>
