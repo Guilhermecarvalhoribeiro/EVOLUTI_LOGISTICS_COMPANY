@@ -90,19 +90,13 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 
 # Backlog do Produto 
 
-_Sprint 1_
+Sprint 1: limpeza de dados
+Sprint 2: análise
+Sprint 3: dashboard
+Sprint 4: finalização
 
 
 
-_Sprint 2_
-
-
-
-_Sprint 3_
-
-
-
-_Sprint 4_
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
